@@ -1,0 +1,2 @@
+# Omegalol-bot
+ discord bot
